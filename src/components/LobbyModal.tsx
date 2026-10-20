@@ -277,7 +277,7 @@ export const LobbyModal: React.FC<LobbyModalProps> = ({
             </span>
           ) : (
             <span className="status-badge status-online">
-              <Wifi size={13} /> Wi-Fi & WebRTC Çoklu-Cihaz Ağı Aktif
+              <Wifi size={13} /> ⚡ Küresel Bulut Ağı Aktif (Tüm Cihazlar & Mobil Veri)
             </span>
           )}
         </div>
